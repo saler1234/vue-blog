@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis massa varius, tincidunt purus quis, lobortis ligula. Curabitur viverra eget neque id suscipit. Nulla pretium, urna ac accumsan commodo, dolor quam consequat nunc, sit amet lacinia nunc nibh sit amet risus. Maecenas lobortis tortor a purus rhoncus vulputate. Nulla quis sollicitudin augue, eu fermentum tortor.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 css tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis massa varius, tincidunt purus quis, lobortis ligula. Curabitur viverra eget neque id suscipit. Nulla pretium, urna ac accumsan commodo, dolor quam consequat nunc, sit amet lacinia nunc nibh sit amet risus. Maecenas lobortis tortor a purus rhoncus vulputate. Nulla quis sollicitudin augue, eu fermentum tortor.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "Proba",
+      "body": "malo contenta",
+      "tags": [
+        "html",
+        "js"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Proba opet",
+      "body": "HJABFGHABFG",
+      "tags": [
+        "vue",
+        "angular"
+      ],
+      "id": 4
+    }
+  ]
+}
